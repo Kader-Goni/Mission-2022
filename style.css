@@ -122,11 +122,11 @@ body{
     banner css ends 
 ======================*/
 
+
 .mission-container{
     display: flex;
     justify-content: space-around;
 }
-
 
 .mission-container .item{
     margin-top: 50px;
@@ -284,5 +284,46 @@ body{
 
 /*=====================
     webApp css ends 
+======================*/
+
+
+.footer-text{
+    width: 100%;
+    height: 177px;
+    background: #000;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-text h1{
+    color: #FFFFFF;
+    font-size: 36px;
+    font-weight: 400;
+    font-family: 'Lobster', cursive;
+}
+ .footer-text span{
+     color: #FF5959;
+ }
+
+.footer-text p{
+    color: #D9DBE1;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.footer-text small{
+    color: #D9DBE1;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*=====================
+    footer css ends 
 ======================*/
 
