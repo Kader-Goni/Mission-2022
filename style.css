@@ -122,6 +122,11 @@ body{
     banner css ends 
 ======================*/
 
+.mission-container{
+    display: flex;
+    justify-content: space-around;
+}
+
 
 .mission-container .item{
     margin-top: 50px;
