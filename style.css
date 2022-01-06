@@ -121,3 +121,64 @@ body{
 /*=====================
     banner css ends 
 ======================*/
+
+
+.mission-container .item{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 156px;
+    margin-right: 156px;
+    width: 450px;
+    height: 430px;
+    border-radius: 26px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    -ms-border-radius: 26px;
+    -o-border-radius: 26px;
+}
+
+.image-item{
+    width: 141px;
+    height: 141px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.item .text-item{
+    padding-left: 24px;
+    padding-right: 54px;
+}
+.text-item h1{
+    color: #000000;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.text-item p{
+    color: #424242;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+
+}
+
+
+.image-item img{
+    width: 100%;
+}
+
+.mission{
+    background: #4F9DA61A;
+}
+.vission{
+    background: #FF59591A;
+}
+.goals{
+    background: #FFF4D6;
+}
+
+/*=====================
+    missions css ends 
+======================*/
