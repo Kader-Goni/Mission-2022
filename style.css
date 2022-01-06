@@ -182,3 +182,81 @@ body{
 /*=====================
     missions css ends 
 ======================*/
+
+
+.develop-container{
+    display: flex;
+    padding-top: 85px;
+}
+
+.develop-container .image{
+    margin: 0 72px 100px 158px;
+    width: 960px;
+    height: 720px;
+}
+
+
+.develop-container .image img{
+    width: 100%;
+    border-radius: 26px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    -ms-border-radius: 26px;
+    -o-border-radius: 26px;
+}
+
+.develop-container .text{
+    padding-top: 45px;
+} 
+
+.text h1{
+    color: #333333;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text p{
+    color: #3E3E3E;
+    padding-top: 17px;
+    padding-bottom: 18px;
+    padding-right: 25%;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*=====================
+    develop part css ends 
+======================*/
+
+
+.community-container{
+    display: flex;
+}
+
+.community-container .image{
+    margin-right: 157px;
+    width: 960px;
+    height: 720px;
+}
+
+.community-container .image img{
+    width: 100%;
+    border-radius: 26px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    -ms-border-radius: 26px;
+    -o-border-radius: 26px;
+}
+
+.community-container .text{
+    padding-top: 45px;
+    margin-left: 158px;
+
+}
+
+/*=====================
+    community part css ends 
+======================*/
+
