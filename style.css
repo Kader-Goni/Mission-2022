@@ -260,3 +260,24 @@ body{
     community part css ends 
 ======================*/
 
+
+.app-container{
+    display: flex;
+}
+
+.app-container .image{
+    margin-top: 50px;
+    padding-left: 150px;
+}
+
+
+
+.app-container .text{
+    padding-left: 150px;
+    padding-top: 155px;
+}
+
+/*=====================
+    webApp css ends 
+======================*/
+
